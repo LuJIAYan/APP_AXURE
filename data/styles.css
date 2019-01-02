@@ -126,3 +126,13 @@
 }
 ._垂直线 {
 }
+.checkbox {
+  text-align:left;
+}
+._文本段落2 {
+  font-family:'IaxureTBG Medium', 'IaxureTBG';
+  font-weight:500;
+  font-style:normal;
+  font-size:18px;
+  text-align:center;
+}
